@@ -1,0 +1,6 @@
+{
+  "name": "nuxt-yarn",
+  "dependencies": {
+    "nuxt": "^2.14.1"
+  }
+}
